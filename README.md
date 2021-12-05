@@ -1,4 +1,4 @@
-# Finger-Print-Car-Access
+# Fingerprint-Car-Access
 Made as a minor project for college
 
 # Procedure to Use
